@@ -14,7 +14,7 @@ a{text-decoration: none;}
 section{
 	padding: 100Px
 }
-@media (max-width:900px){
+@media (max-width:1000px){
 	padding: 50px 20px;
 	}
 
@@ -180,7 +180,7 @@ nav ul li a {
 	border-radius:30px;
 }
 
-@media (max-width: 900px){
+@media (max-width: 1000px){
 	.bannar{
 		padding:20px;
 		height:100vh
@@ -245,7 +245,7 @@ h3{
 	
 }
 
-@media (max-width: 900px){
+@media (max-width: 1000px){
 	
 	.about{
 		padding:50px 20px;
@@ -286,7 +286,7 @@ h3:after{
 	flex-basis:60%;
 }
 
-@media (max-width: 900px){
+@media (max-width: 1000px){
 	.about {
 	padding: 50px 20px;
 	}
@@ -358,7 +358,7 @@ h3:after{
 	
 }
 
-@media (max-width:900px){
+@media (max-width:1000px){
 	.education{
 	padding:50px 20px 0;
 }
