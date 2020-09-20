@@ -114,8 +114,8 @@ nav ul li a {
 	.open-min{
 		display:block;
 		position:absolute;
-		top:38px;
-		right:10px;
+		top:39px;
+		right:20px;
 		cursor: pointer;
 	}
 }
@@ -212,7 +212,7 @@ nav ul li a {
 	top:55%;
 	left:55%;
 	transform: translate(-50%,-50%);
-	height:auto;
+	height:400PX;
 	width:100%;
 }
 
