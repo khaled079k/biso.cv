@@ -70,11 +70,11 @@ nav ul li a {
 		}
 	header h2{
 		font-size:20px;
-		color:red;
 		}
     nav {
 		width:00%;
-		background:#ddd;
+	    	height: 600px
+		background:#cdaeac;
 		position: fixed;
 		top:0;
 		right: 0;
@@ -95,7 +95,7 @@ nav ul li a {
 	nav ul li a{
 		display: block;
 		text-align: center;
-		color:#fff;
+		color:#a4a39f;
 		
 		
 	}
@@ -118,7 +118,7 @@ nav ul li a {
 		display:block;
 		position:absolute;
 		top:20px;
-		right:0;
+		right:5px;
 		cursor: pointer;
 	}
 }
@@ -217,8 +217,8 @@ nav ul li a {
 }
 
 .bannar .image img{
-	width:300px;
-	height:300px
+	width:400px;
+	height:400px
 } 
 
 }
