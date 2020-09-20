@@ -116,7 +116,7 @@ nav ul li a {
 		display:block;
 		position:absolute;
 		top:38px;
-		right:5px;
+		right:10px;
 		cursor: pointer;
 	}
 }
@@ -145,6 +145,7 @@ nav ul li a {
 }
 
 .bannar .image img{
+	height:500px;
 } 
 
 .bannar .content-banar{
