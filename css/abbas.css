@@ -81,6 +81,7 @@ nav ul li a {
 		height:100vh;
 		z-index: 22;
 		overflow:hidden;
+		opacity:.5
 		}
 	nav ul{
 		padding-right:10px;
