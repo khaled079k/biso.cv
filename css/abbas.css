@@ -11,7 +11,7 @@ section{
 	padding: 100Px
 }
 @media only screen  and (orientation:portrait) and (max-width:800px){
-	padding: 50px 20px;
+	padding: 80px 20px;
 	}
 
 /*----- end geniral------*/
