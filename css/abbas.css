@@ -141,11 +141,11 @@ nav ul li a {
 .bannar .image{
 	order: 2;
 	width: 60%;
-	height: 500px;
+	height: 600px;
 }
 
 .bannar .image img{
-	height:500px;
+	height:600px;
 } 
 
 .bannar .content-banar{
