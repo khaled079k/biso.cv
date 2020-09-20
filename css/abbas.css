@@ -118,7 +118,7 @@ nav ul li a {
 	.open-min{
 		display:block;
 		position:absolute;
-		top:20px;
+		top:25px;
 		right:5px;
 		cursor: pointer;
 	}
