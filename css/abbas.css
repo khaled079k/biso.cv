@@ -205,6 +205,7 @@ nav ul li a {
 .bannar .content-banar a{
 	padding: 8px 15px;
 	color:#fff;
+	box-shadow:2px 2px #cdaeac;	
 }
 
 .bannar .image{
