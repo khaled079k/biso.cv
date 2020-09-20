@@ -87,7 +87,7 @@ nav ul li a {
 		padding-right:10px;
 	}	
 	nav ul li{
-			margin-bottom:20PX;
+			margin-bottom:30PX;
 			text-align:center;
 			width: 100%;
 			border-bottom: 1px solid #cdaeac;
@@ -116,7 +116,7 @@ nav ul li a {
 	.open-min{
 		display:block;
 		position:absolute;
-		top:40px;
+		top:38px;
 		right:5px;
 		cursor: pointer;
 	}
